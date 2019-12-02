@@ -1,0 +1,4 @@
+1.- Eliminar seteo de  variables no utilizadas: (l,initialized)
+2.- Agrupar el codigo de acuerdo a su uso.
+3.- Crear exepciones propias para mejorar el monitoreo.
+4.- Revisar conversiones de tipo innecesarias : String.valueOf(t)
